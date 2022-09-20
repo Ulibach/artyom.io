@@ -1,0 +1,29 @@
+<template>
+    <div class="container">
+        <nav-bar/>
+        <slot></slot>
+    </div>
+</template>
+<script setup lang="ts">
+    import NavBar from '@/components/NavBar.vue'
+</script>
+<style scoped lang="scss">
+.container {
+    padding: 32px 64px;
+    max-width: 1280px;
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 40px auto 40%;
+    column-gap: 24px;
+    row-gap: 24px;
+    grid-template-areas: "nav nav nav nav" "main main main ." "detail detail detail detail";
+    @media screen and (max-width: 900px) {
+        & {
+            padding: 20px 12px !important;
+        }
+    }
+}
+</style>
