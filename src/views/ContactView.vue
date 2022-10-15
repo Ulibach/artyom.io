@@ -18,7 +18,7 @@
             </a>
             <a href="mailto:hi@artyom.io?subject=💀" target="_blank" class="contact">
                 hi@artyom.io
-            <span class="sub">Or the old-fashioned way</span>
+            <span class="sub">Or email me</span>
             </a>
             <router-link to="/">
             <button class="work">
