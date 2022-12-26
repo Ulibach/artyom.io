@@ -4,17 +4,13 @@
         <h1>
             <br/>
             Contact me <br/>
-            <a href="https://ulibach.t.me" target="_blank" class="contact main-contact">
-                @Ulibach
+            <a href="https://artiomsklyarov.t.me" target="_blank" class="contact main-contact">
+                @ArtiomSklyarov
             <span class="sub">Telegram (fastest reply)</span>
             </a>
             <a href="discord://discordapp.com/users/240850877433380865" class="contact">
                 Ulibach#9332
             <span class="sub">Discord</span>
-            </a>
-            <a href="https://twitter.com/ulibachx" target="_blank" class="contact">
-                @Ulibachx
-            <span class="sub">Twitter</span>
             </a>
             <a href="mailto:hi@artyom.io?subject=💀" target="_blank" class="contact">
                 hi@artyom.io
