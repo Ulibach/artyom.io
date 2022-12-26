@@ -15,9 +15,9 @@
     </section>
     <section class="details">
         <h2>SELECTED WORKS</h2>
-        <details-item title="OMB-SHOP" description="E-commerce" hasCase link="http://omb-shop.com/catalog" />
-        <details-item title="WoW Classic FoV Changer" link="https://github.com/Ulibach/WoW-Classic-FoV-Changer" description="Pet project" />
-        <details-item title="Twitch clip browser" link="https://github.com/Ulibach/clip-browser" description="Pet project"/>
+        <details-item title="Ingosinvest" link="https://www.ingosinvest.ru" description="CMS & website development" />
+        <details-item title="TASS" description="CMS development" link="https://www.tass.com" />
+        <details-item title="OH! MY BRAND LTD." link="https://omb-shop.com" description="Website development"/>
     </section>
     </view-container>
 </template>

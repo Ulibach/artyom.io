@@ -10,9 +10,11 @@ const container = ref('');
       let camera, scene, renderer, uniforms, material, mesh, clock;
 
   watch(container, (newContainer) => {
+    if (window.innerWidth > 800) {
       init(newContainer);
       clock = new THREE.Clock();
       animate();
+    }
   })
 
       function init(container) {
